@@ -19,7 +19,7 @@ ItemsAdder를 사용하는 경우 "/CustomCrops/contents/crops" 폴더에서 "_o
 Oraxen을 사용하는 경우 "/CustomCrops/contents/crops" 폴더에서 "_itemsadder"로 끝나는 파일을 삭제하세요.
 이후 ItemsAdder / Oraxen 의 contents 경로에 넣어 적용하세요
 
-![Uploading 2d67b6917c933.gif…]()
+[![Uploading 2d67b6917c933.gif…]()](https://github.com/mangchi57/CustomCrops_3.0Basic_Pack-3.4-ko/issues/1#issue-2978933978)
 
 
 
